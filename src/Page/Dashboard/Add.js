@@ -50,9 +50,10 @@ function Add({ employees, setEmployees, setIsAdding }) {
 
 
     return (
+        <>
         <div className="small-container">
             <form onSubmit={handleAdd}>
-                <h1>Add Employee</h1>
+                <h1>Add Employee 👷‍♂️</h1>
                 <label htmlFor="firstName">First Name</label>
                 <input
                     id="firstName"
@@ -106,6 +107,7 @@ function Add({ employees, setEmployees, setIsAdding }) {
                 </div>
             </form>
         </div>
+        </>
     );
 }
 
