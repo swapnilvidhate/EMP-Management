@@ -72,12 +72,44 @@ const employeesData = [
     date: '2019-10-15'
   },
   {
-    id: 10,
-    firstName: 'Lyndsey',
-    lastName: 'Follette',
-    email: 'lyndsey@example.com',
+    id: 11,
+    firstName: 'Sandy',
+    lastName: 'Lourence',
+    email: 'sandy@example.com',
     salary: '110000',
     date: '2020-01-15'
+  },
+  {
+    id: 12,
+    firstName: 'Rockey',
+    lastName: 'Musk',
+    email: 'Rockey@example.com',
+    salary: '180000',
+    date: '2020-01-15'
+  },
+  {
+    id: 13,
+    firstName: 'Andy',
+    lastName: 'Johanson',
+    email: 'Andy@example.com',
+    salary: '120000',
+    date: '2022-01-15'
+  },
+  {
+    id: 14,
+    firstName: 'Tom',
+    lastName: 'Jackson',
+    email: 'Tom@example.com',
+    salary: '145000',
+    date: '2020-02-10'
+  },
+  {
+    id: 15,
+    firstName: 'Karl',
+    lastName: 'Young',
+    email: 'Karl@example.com',
+    salary: '110000',
+    date: '2022-11-09'
   }
 ];
 
